@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WifiServer</string>
+    <string name="nada_recebido_ainda">Nada recebido ainda</string>
+</resources>
